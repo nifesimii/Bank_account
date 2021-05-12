@@ -1,4 +1,4 @@
-![](images/Bank_pic.py.jpg)
+![](images/Bank_pic.jpg)
 
 # Bank_account_Library
 A Bank account built using the  Object oriented programming Language Python 
